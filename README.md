@@ -24,27 +24,27 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 * La siguiente estructura muestra las secciones y paginas más importantes. 
 * Esto quiere decir, que su documento puede tener más paginas de las mostradas aquí.
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/portada.png "PORTADA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/portada.png "PORTADA")
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/indice.png "INDICE") 
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/indice.png "INDICE") 
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/cuerpo.png "CUERPO DEL DOCUMENTO") 
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/cuerpo.png "CUERPO DEL DOCUMENTO") 
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/cuerpo1.png "CUERPO DEL DOCUMENTO") 
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/cuerpo1.png "CUERPO DEL DOCUMENTO") 
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/horizontal.png "HORIZONTAL CON TABLA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/horizontal.png "HORIZONTAL CON TABLA")
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/concluso.png "CONCLUSIONES")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/concluso.png "CONCLUSIONES")
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/biblio.png "BIBLIOGRAFIA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/biblio.png "BIBLIOGRAFIA")
 
 
 ### 3. Estructura del Planilla de Cálculo. (PLANILLA DE CALCULO GOOGLE)
 A Partir de la base de datos que obtendrán con Claude.ai mas adelante.
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla1.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/tabla1.png "TABLA Y GRAFICA")
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla2.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/tabla2.png "TABLA Y GRAFICA")
 
 ---
 
@@ -109,9 +109,9 @@ _Debes respetar la siguiente consigna_
 * Abre la planilla de cálculo de google con ejemplo de datos descriptivos [[pulsa aquí para abrir]]( https://docs.google.com/spreadsheets/d/11q1MyXDT0rHvdsMJ5PwSZOoOaC2glqw5rAhsbwNJMdU/edit?usp=sharing)
    
 A Partir de la base de datos que dejo disponible mas adelante.
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla1.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/tabla1.png "TABLA Y GRAFICA")
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla2.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/tabla2.png "TABLA Y GRAFICA")
 
 
 **Paso 6:**
