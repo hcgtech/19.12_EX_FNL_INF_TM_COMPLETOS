@@ -1,20 +1,20 @@
 # EXAMEN FINAL 16-DIC-24 TURNO MAÑANA Y NOCHE
-# REGULAR INCOMPLETO
+# REGULAR COMPLETO
 ## TECNICATURA DE PRECEPTOR
  
 **Para proyecto es necesario tener:**
-* abierto tu usuario de google,
+* abierto tu usuario de google
 * abierto tu usuario en Claude.ai
 * abierto tu usuario de Github.com
 
-## El proyecto trata sobre Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio en Escuelas Secundarias de la Región Noreste - Misiones, Argentina. 
+## El proyecto trata sobre: Los Preceptores en el nivel secundario en la República Argentina, requisitos y formación, influencia de la tecnología en su formación. 
 _Lo que sigue, es un proyecto particular sobre un tema específico, y la forma de presentar y su armado, es el resultado de aplicar todo lo aprendido e integrado._
 
 ---
 
 ## 1. Estructura del proyecto (en google drive)
-- Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio.docx
-- Reporte de Adicciones y Suicidios.xls
+- Informe Preceptores en el Nivel Secundario - Región Noreste Argentino.docx
+- Tablas de Sueldos Promedios Preceptores en Argentina.xls
 
 ---
 
@@ -40,9 +40,9 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 ### 3. Estructura del Planilla de Cálculo. (PLANILLA DE CALCULO GOOGLE)
 A Partir de la base de datos que obtendrán con Claude.ai mas adelante.
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/tabla1.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/grafica.png "TABLA Y GRAFICA")
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/tabla2.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/grafica2.png "TABLA Y GRAFICA")
 
 ---
 
@@ -61,10 +61,7 @@ Necesito un reporte tipo informe escrito en formato procesador de texto sobre  c
 luego de solicitar sobre temas de Preceptor en escuelas educativas del nivel secundario...
 
 ```txt
-continuando con información anterior armar dos tablas:
-tabla 1, con los reportes de adicciones de jovenes del nivel educativo secundario de la republica argentina de los ultimos cinco años, separados por provincia, donde las provincias estarán en filas y en columnas los años.
-tabla 2, con los reportes de suicidios de jovenes del nivel educativo secundario de la republica argentina de los ultimos cinco años, separados por provincia, donde las provincias estarán en filas y en columnas los años.
-Recuerda utilizar los recursos para esta tabla, información de medios formales de la republica argentina.
+continuando con información anterior armar dos tablas: tabla 1, con sueldos promedios preceptores del nivel educativo secundario en colegios públicos en la República Argentina separado por provincias desde 2020 hasta donde tengas información, donde las provincias estarán en filas y en columnas los años. tabla 2, con sueldos promedios preceptores del nivel educativo secundario en colegios públicos de los departamentos de la Provincia de Misiones de la republica argentina desde 2020 hasta donde tengas información, separados por departamento, donde los departamentos de la provincia de Misiones estarán en filas y en columnas los años. Recuerda utilizar los recursos para esta tabla, información de medios formales y del ministerio de Educacion Nacional y provinciales  de la republica argentina.
 ```
 
 **Paso 3:**
@@ -74,7 +71,7 @@ Recuerda utilizar los recursos para esta tabla, información de medios formales 
   * Guarda el archivo con el nombre **Informe Preceptores en el Nivel Secundario - Región Noreste Argentino**
 * UTILIZA LA MUESTRA ANTERIOR (OBSERVA LAS IMAGENES ANTERIORES)
 
-_Debes respetar la siguiente consigna_
+_aDebes respetar la siguiente consign_
 > * Primer página debe ser la Portada.
 > * Segunda página estará la Tabla de Contenido o Indice.
 > * Tercera página debe empezar todo el cuerpo del texto
@@ -84,13 +81,13 @@ _Debes respetar la siguiente consigna_
 * Separa en 4 Secciones:
 > * Sección 1, Portada
 > * Sección 2, Indice y Cuerpo del texto
-> * Sección 3, CuadroImagen (PAGINA HORIZONTAL)
+> * Sección 3, Cuadro (PAGINA HORIZONTAL)
 > * Sección 4, Conclusiones, Bibliografia y fuentes
 
 * **REPASA LOS SIGUIENTE PUNTOS PARA VERIFICAR QUE HAS AGREGADO TODOS LOS DETALLES:**
 > * Recuerda colocar el encabezado y pie de pagina en los lugares indicados.
 > * Recuerda armar la tabla de contenido y la nota al pie.
-> * Guarda el documento con el nombre de: **Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio**
+> * Guarda el documento con el nombre de: **Informe Preceptores en el Nivel Secundario - Región Noreste Argentino**
 
 **Paso 4:**
 * Abre la planilla de cálculo de google [[pulsa aquí para abrir](https://docs.google.com/spreadsheets/u/0/)]
@@ -102,14 +99,13 @@ _Debes respetar la siguiente consigna_
  > * Ordena los datos pegados de tal forma que puedas continuar.
  > * Convierte en tablas los dos grupos de datos (tablas) (formato: convertir en tabla)
  > * Inserta un grafico en cada tabla.
- > * Genera los datos descriptivos a partir de la tabla. (Estadísticos).
- > * GUARDA EL ARCHIVO GENERADO CON EL NOMBRE **
-* Abre la planilla de cálculo de google con ejemplo de datos descriptivos [[pulsa aquí para abrir]]( https://docs.google.com/spreadsheets/d/11q1MyXDT0rHvdsMJ5PwSZOoOaC2glqw5rAhsbwNJMdU/edit?usp=sharing)
+ > * GUARDA EL ARCHIVO GENERADO CON EL NOMBRE **Tablas de Sueldos Promedios Preceptores en Argentina**
    
-A Partir de la base de datos que dejo disponible mas adelante.
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/tabla1.png "TABLA Y GRAFICA")
+Debería quedar de la siguiente forma ( recuerda los datos pueden diferir en cada solicitud a Claude.ai )
 
-![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/tabla2.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/grafica.png "TABLA Y GRAFICA")
+
+![alt text](https://github.com/hcgtech/16.12_EX_FNL_INF_TM_TN_COMPLETOS/blob/main/images/grafica2.png "TABLA Y GRAFICA")
 
 
 **Paso 6:**
@@ -120,17 +116,30 @@ A Partir de la base de datos que dejo disponible mas adelante.
       # REGULAR COMPLETO
       ## TECNICATURA DE PRECEPTOR
       
-      ## Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio en Escuelas Secundarias de la Región Noreste - Misiones, Argentina.
+      ## Los Preceptores en el nivel secundario en la República Argentina, requisitos y formación, influencia de la tecnología en su formación.
 
-      * Se incluye Reporte: e Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio en Escuelas Secundarias de la Región Noreste - Misiones, Argentina.
-      * Se incluye una planilla con información de adicciones y suicidios entre jovenes del ciclo secundario en Argentina.
+      * Se incluye Reporte: informe detallado sobre los preceptores en el nivel secundario de la región Noreste de Argentina, específicamente enfocado en la provincia de Misiones. El documento incluye:
+        - Marco legal y normativo
+        - Requisitos formales
+        - Funciones principales
+        - Impacto de la tecnología
+        - Estadísticas actualizadas
+        - Conclusiones y recomendaciones
       
-      ### Se adjunta Reporte: Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio.
-      [[Informe/Manual Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+      * Se incluye una planilla con información de:
+        - Sueldos Promedios Anuales de Preceptores en Colegios Públicos por Provincias (2020-2024).
+        - Sueldos Promedios Anuales de Preceptores en Colegios Públicos de Departamentos de Misiones (2020-2024)
       
-      ### Se adjunta tendencias adicciones y suicidios entre jóvenes del ciclo secundario en Argentina.
-      [[Tendencias en adicciones y suicidios en jóvenes del Ciclo Secundario-Argentina](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+      ### Se adjunta Reporte: Informe Preceptores en el Nivel Secundario - Región Noreste Argentino.
+      [[Informe Preceptores en el Nivel Secundario - Región Noreste Argentino](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+      
+      ### Se adjunta información sobre Sueldos Promedios Anuales de Preceptores en Argentina.
+      [[Tablas de Sueldos Promedios Preceptores en Argentina](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
 
       ```
 
  **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
+ **IMPORTANTE:**
+ > * El link **NO debe terminar** en /tree/main, tampoco .git, debe terminar con **/examen_16Dic2024**
+ > * Cuando compartes los archivos de google y pegas el link, recuerda compartir correctamente, sino no podrá ser evaluado.
+
