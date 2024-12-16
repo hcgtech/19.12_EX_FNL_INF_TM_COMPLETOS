@@ -1,5 +1,6 @@
-# EXAMEN FINAL 16-DIC-24 TURNO MAÑANA Y NOCHE
-# REGULAR COMPLETO
+# EXAMEN FINAL 16-DIC-24 
+## TURNO MAÑANA Y NOCHE
+
 ## TECNICATURA DE PRECEPTOR
  
 **Para proyecto es necesario tener:**
@@ -140,6 +141,6 @@ Debería quedar de la siguiente forma ( recuerda los datos pueden diferir en cad
 
  **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
  **IMPORTANTE:**
- > * El link **NO debe terminar** en /tree/main, tampoco .git, debe terminar con **/examen_16Dic2024**
+ > * El link **NO debe terminar** en /tree/main, tampoco .git, debe terminar con **examen_16Dic2024**
  > * Cuando compartes los archivos de google y pegas el link, recuerda compartir correctamente, sino no podrá ser evaluado.
 
