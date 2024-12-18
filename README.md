@@ -132,10 +132,10 @@ Debería quedar de la siguiente forma ( recuerda los datos pueden diferir en cad
         - Sueldos Promedios Anuales de Preceptores en Colegios Públicos de Departamentos de Misiones (2020-2024)
       
       ### Se adjunta Reporte: Informe Preceptores en el Nivel Secundario - Región Noreste Argentino.
-      [[Informe Preceptores en el Nivel Secundario - Región Noreste Argentino](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+      [[Informe Preceptores en el Nivel Secundario - Región Noreste Argentino]( https://docs.google.com/document/d/1LbjaEVTqBjMv-UozxZx73RnwHZK_EwwsKbO89TOBB24/edit?usp=drivesdk)]
       
       ### Se adjunta información sobre Sueldos Promedios Anuales de Preceptores en Argentina.
-      [[Tablas de Sueldos Promedios Preceptores en Argentina](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+      [[Tablas de Sueldos Promedios Preceptores en Argentina](https://docs.google.com/spreadsheets/d/1BbFDlMF1fbES8q0HEEFN7MufD1quWxPA/edit?usp=drivesdk&ouid=102033671812532304535&rtpof=true&sd=true)]
 
       ```
 
